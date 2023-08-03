@@ -1,6 +1,5 @@
 {
   "name": "toshe",
-  "homepage": "http://tosheswap.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
