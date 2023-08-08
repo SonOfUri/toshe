@@ -23,30 +23,30 @@ const widgetConfig: WidgetConfig = {
 
   subvariant: 'split',
 
-  tokens: {
-    // Featured tokens will appear on top of the list
-    featured: [
-      {
-        address: '0xb2fB82f59B46c1970661b4c4895be8aed5215874',
-        symbol: 'TOSHE',
-        decimals: 18,
-        chainId: 1,
-        name: 'TOSHE',
-        logoURI: 'https://tametoshe.com/images/6458fb21706407400e0d43d4_about-2.png',
-      },
-    ],
-    // Include any token to the list
-    include: [
-      {
-        address: '0xb2fB82f59B46c1970661b4c4895be8aed5215874',
-        symbol: 'TOSHE',
-        decimals: 18,
-        chainId: 1,
-        name: 'TOSHE',
-        logoURI: 'https://tametoshe.com/images/6458fb21706407400e0d43d4_about-2.png',
-      },
-    ],
-  },
+  // tokens: {
+  //   // Featured tokens will appear on top of the list
+  //   featured: [
+  //     {
+  //       address: '0xb2fB82f59B46c1970661b4c4895be8aed5215874',
+  //       symbol: 'TOSHE',
+  //       decimals: 18,
+  //       chainId: 1,
+  //       name: 'TOSHE',
+  //       logoURI: 'https://tametoshe.com/images/6458fb21706407400e0d43d4_about-2.png',
+  //     },
+  //   ],
+  //   // Include any token to the list
+  //   include: [
+  //     {
+  //       address: '0xb2fB82f59B46c1970661b4c4895be8aed5215874',
+  //       symbol: 'TOSHE',
+  //       decimals: 18,
+  //       chainId: 1,
+  //       name: 'TOSHE',
+  //       logoURI: 'https://tametoshe.com/images/6458fb21706407400e0d43d4_about-2.png',
+  //     },
+  //   ],
+  // },
 };
 
 
