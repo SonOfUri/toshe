@@ -11,8 +11,8 @@ const widgetConfig: WidgetConfig = {
   },
   theme: {
         palette: {
-          primary: { main: '#f95494' },
-          secondary: { main: '#fdeaf0' },
+          primary: { main: '#c6200d' },
+          secondary: { main: '#e56226' },
         },
         shape: {
           borderRadius: 10,
@@ -21,32 +21,7 @@ const widgetConfig: WidgetConfig = {
       },
   variant: 'expandable',
 
-  subvariant: 'split',
-
-  // tokens: {
-  //   // Featured tokens will appear on top of the list
-  //   featured: [
-  //     {
-  //       address: '0xb2fB82f59B46c1970661b4c4895be8aed5215874',
-  //       symbol: 'TOSHE',
-  //       decimals: 18,
-  //       chainId: 1,
-  //       name: 'TOSHE',
-  //       logoURI: 'https://tametoshe.com/images/6458fb21706407400e0d43d4_about-2.png',
-  //     },
-  //   ],
-  //   // Include any token to the list
-  //   include: [
-  //     {
-  //       address: '0xb2fB82f59B46c1970661b4c4895be8aed5215874',
-  //       symbol: 'TOSHE',
-  //       decimals: 18,
-  //       chainId: 1,
-  //       name: 'TOSHE',
-  //       logoURI: 'https://tametoshe.com/images/6458fb21706407400e0d43d4_about-2.png',
-  //     },
-  //   ],
-  // },
+  subvariant: 'default',
 };
 
 

@@ -10,7 +10,9 @@
 
 *::-webkit-scrollbar-thumb {
   /* background-color: rgba(29, 117, 168) !important; */
-  background-image: linear-gradient(to bottom , #1D76A8, #041017);
+  /* background-image: linear-gradient(to bottom , #1D76A8, #041017); */
+    background-image: linear-gradient(to bottom right, #c6200d, #e56226);
+
 
   outline: 1px solid slategrey !important;
 }
@@ -31,7 +33,7 @@ nav{
   display: flex;
   justify-content: space-around;
   /* background-image: linear-gradient(to bottom right, #1D76A8, #041017); */
-    background-image: linear-gradient(to bottom right, #ff8ffb, #ff8ffb);
+    background-image: linear-gradient(to bottom right, #c6200d, #e56226);
   margin-bottom: 50px;
   border-radius: 10px;
 }
@@ -96,7 +98,7 @@ nav{
 
 .footer{
   /* background-image: linear-gradient(to bottom right, #1D76A8, #041017); */
-    background-image: linear-gradient(to bottom right, #ff8ffb, #ff8ffb);
+    background-image: linear-gradient(to bottom right, #c6200d, #e56226);
   color: #fff;
   height: fit-content;
   border-radius: 0px;
