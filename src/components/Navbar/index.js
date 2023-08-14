@@ -11,9 +11,9 @@ const Navbar = () => {
     </div>
  
     <div class="links" >
-        <div><a href="https://shibridge.com" target='_blank'>Home</a></div>
-        <div><a href="https://shibridge.com/#about" target='_blank'>About</a></div>
-        <div><a href="https://shibridge.com/#roadmap" target='_blank'>Roadmap</a></div>
+        <div><a href="https://shibridge.org" target='_blank'>Home</a></div>
+        <div><a href="https://shibridge.org/#about" target='_blank'>About</a></div>
+        <div><a href="https://shibridge.org/#roadmap" target='_blank'>Roadmap</a></div>
     </div>
 </nav>
 
