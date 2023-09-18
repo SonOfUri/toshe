@@ -11,9 +11,7 @@ const Navbar = () => {
     </div>
  
     <div class="links" >
-        <div><a href="#" target='_blank'>Home</a></div>
-        <div><a href="#t" target='_blank'>About</a></div>
-        <div><a href="#" target='_blank'>Roadmap</a></div>
+      
     </div>
 </nav>
 
