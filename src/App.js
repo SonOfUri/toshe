@@ -11,8 +11,8 @@ const widgetConfig: WidgetConfig = {
   },
   theme: {
         palette: {
-          primary: { main: '#c6200d' },
-          secondary: { main: '#e56226' },
+          primary: { main: '#0F0823FF' },
+          secondary: { main: '#0F0823FF' },
         },
         shape: {
           borderRadius: 10,

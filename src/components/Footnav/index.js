@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from '../../intelai.png';
 
 
 const Footnav = () => {
@@ -6,7 +7,7 @@ const Footnav = () => {
      
     <div class='footer'>
         <div class='footer-img'>
-        <img id="logo2-image" src="/logo2.png" alt='Logo' />        
+        <img id="logo2-image" src={logo} alt='Logo' />
         </div>
         <div class='footer-links'>
           <a href='#' target='_blank'>

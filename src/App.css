@@ -11,7 +11,7 @@
 *::-webkit-scrollbar-thumb {
   /* background-color: rgba(29, 117, 168) !important; */
   /* background-image: linear-gradient(to bottom , #1D76A8, #041017); */
-    background-image: linear-gradient(to bottom right, #c6200d, #e56226);
+    background-image: linear-gradient(to bottom right, #0F0823FF, #0F0823FF);
 
 
   outline: 1px solid slategrey !important;
@@ -33,7 +33,7 @@ nav{
   display: flex;
   justify-content: space-around;
   /* background-image: linear-gradient(to bottom right, #1D76A8, #041017); */
-    background-image: linear-gradient(to bottom right, #c6200d, #e56226);
+    background-image: linear-gradient(to bottom right, #0F0823FF, #0F0823FF);
   margin-bottom: 50px;
   border-radius: 10px;
 }
@@ -98,7 +98,7 @@ nav{
 
 .footer{
   /* background-image: linear-gradient(to bottom right, #1D76A8, #041017); */
-    background-image: linear-gradient(to bottom right, #c6200d, #e56226);
+    background-image: linear-gradient(to bottom right, #0F0823FF, #0F0823FF);
   color: #fff;
   height: fit-content;
   border-radius: 0px;
@@ -142,3 +142,18 @@ nav{
 p.MuiTypography-root.MuiTypography-body1.css-1m2zctd-MuiTypography-root{
   display: none;
 }
+
+
+#logo-image{
+  width: 70px;
+}
+
+ body{
+   background: #0F0823FF;
+ }
+
+ #alink{
+   text-decoration: none;
+   font-size: x-large;
+   color: #fff;
+ }
